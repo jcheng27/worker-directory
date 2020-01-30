@@ -42,7 +42,7 @@ render() {
 
     return (
       <div className='tc'> 
-        <h1 className='f1'>User List</h1>
+        <h1 className='f1'>User Directory</h1>
         <SearchBox dynamicSearch={this.onSearchChange}/>
         <p></p>
 
